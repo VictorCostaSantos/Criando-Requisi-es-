@@ -40,7 +40,7 @@ Ou
 1. Clonar o repositório
 
 ```
-git clone https://github.com/VictorCostaSantos/Criando-Requisi-es-
+git clone https://github.com/VictorCostaSantos/Criando-Requisi-es-.git
 ```
 2. Localizar e abrir a pasta *Criando-Requisi-es-*
 
